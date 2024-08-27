@@ -1,4 +1,6 @@
 # 💫 About Me:
+I'm a second year computer engineering student at the University of Waterloo, passionate about exploring the realm of machine learning, firmware, and full-stack development. <br>
+ 
 🔭 I’m currently working on My Personal Website<br><br>🌱 I’m currently learning Data Structures and Algorithms<br><br>💬 Ask me about Python
 
 
