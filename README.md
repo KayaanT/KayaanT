@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Grade 7<br>🔭 I’m currently working on My Personal Website<br>📚 I'm currently learning Data Structures and Algorithms</p>
+<p align="left">🔭 I’m currently working on My Personal Website<br>📚 I'm currently learning Data Structures and Algorithms</p>
 
 ###
 
