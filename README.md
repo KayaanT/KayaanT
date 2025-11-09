@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Kayaan Tharani and I'm a second year Computer Engineering Student at the University of Waterloo.</p>
+<p align="left">My name is Kayaan Tharani and I'm a third year Computer Engineering Student at the University of Waterloo.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on My Personal Website<br>📚 I'm currently learning Data Structures and Algorithms</p>
+<p align="left">🔭 I’m currently working on My Personal Website<br>📚 I'm currently learning AI Infrastructure</p>
 
 ###
 
