@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayaan</h1>
 <h3 align="center">A computer engineering student at the University of Waterloo.</h3>
 
-- 🔭 I’m currently working on **my personal website**
+- 🔭 I’m currently working on **Vestige**
 
 - 🌱 I’m currently learning **Golang**
 
