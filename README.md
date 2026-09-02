@@ -1,6 +1,6 @@
 # Hi, I'm Kayaan
 
-Computer engineering student at Waterloo, on co-op. I build AI infrastructure and inference systems — most recently ingestion and agent pipelines at a legal-tech startup, and data center network research at Huawei. Currently building [homelab](https://github.com/KayaanT/homelab), a single-node Kubernetes + OpenStack private cloud, and core-contributing to [Cactus](https://github.com/cactus-compute/cactus), an open-source on-device AI inference engine. Drawn to hard engineering problems at the intersection of AI and systems.
+Computer engineering student at Waterloo, on co-op. I build AI infrastructure and inference systems — most recently ingestion and agent pipelines at a startup, and data center network research at Huawei. Currently building [homelab](https://github.com/KayaanT/homelab), a single-node Kubernetes + OpenStack private cloud, and core-contributing to [Cactus](https://github.com/cactus-compute/cactus), an open-source on-device AI inference engine. Drawn to hard engineering problems at the intersection of AI and systems.
 
 [Portfolio](https://kayaantharani.netlify.app) · [LinkedIn](https://linkedin.com/in/kayaan-tharani) · [Email](mailto:kayaan.tharani@uwaterloo.ca)
 
